@@ -19,6 +19,10 @@
 
 ![alt-текст](https://github.com/SofiyaRastorgueva/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2014.52.00.png?raw=true)
 
+Drink и imbibe могут употребляться вместе с whiskey, milk.
+Только слово drink может употребляться с coffee, tea, wine, beer, alcohol, water...
+Только слово imbibe может употребляться с refreshment, vigour, semen.
+
 Задание 3. Бонусное задание.
 
 Из трендов я выбрала слово oversee.
